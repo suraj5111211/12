@@ -11,6 +11,7 @@ if ('serviceWorker' in navigator) {
 }
 ---------------------------------------------------------------------------------------------------------------------------------
 git init
+git config --global user.name "Suraj Midgule" -- 
 git add .
 git commit -m "message"
 git remote add origin <link>
